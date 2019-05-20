@@ -439,7 +439,7 @@ form {
 }
 @media (max-width: 500px) {
   form .submit {
-    color: white;
+    color: black;
     font-size: 2rem;
   }
 }
