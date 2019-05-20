@@ -1,3 +1,22 @@
+# Project Details
+
+<b>Objectives:</b><br />
+Student will demonstrate proficiency by updating a website that is missing content as well as adding mobile styling.  Implement knowledge of viewport meta tag, media queries, setting up a preprocessor, and advanced use of preprocessing techniques.
+
+*Completed all Minimal Viable Project Tasks*
+
+<strong>Stretch Tasks:</strong><br />
+
+
+
+<a href="http://jasheletillman.me/Advanced-CSS-Sprint-Challenge/"><img src="screenshots/desktopview.png" alt="desktop view"></a> <a href="http://jasheletillman.me/Advanced-CSS-Sprint-Challenge/"><img src="screenshots/mobileview.png" alt="mobile view"></a>
+
+
+
+# Contact Me
+<a href="http://jasheletillman.me/" target=_blank>Portfolio</a> • <a href="https://www.linkedin.com/in/jashelet/" target=_blank>LinkedIn</a> • <a href="https://twitter.com/jasheloper" target=_blank>Twitter</a> • <a href="https://www.instagram.com/jasheloper/" target=_blank>Instagram</a> • <a href="mailto:jftjashele@gmail.com" target=_blank>E-mail</a> 
+<br /><br />
+
 # Sprint Challenge: Advanced CSS - Space Walkers Web Page
 
 This challenge allows you to practice the concepts and techniques learned over the past week and apply them in a concrete project. This Sprint explored advanced CSS techniques using Responsive Design and Preprocessing. During this Sprint, you studied how to use the viewport meta tag, media queries, setting up a preprocessor, and advanced use of preprocessing techniques. In your challenge this week, you will demonstrate proficiency by updating a website that is missing content as well as adding mobile styling.
