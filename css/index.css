@@ -414,15 +414,14 @@ footer {
   border-radius: 5rem;
   line-height: 2rem;
   font-weight: bold;
-  background-color: #edeff0;
+  background: #23293B;
+  color: white;
+  text-align: center;
 }
 @media (max-width: 500px) {
   .theform {
-    text-align: center;
     width: 100%;
     padding-top: 3rem;
-    background: #23293B;
-    color: white;
   }
 }
 form {
@@ -430,12 +429,8 @@ form {
   font-size: 1.38rem;
   text-align: center;
   font-weight: bold;
-}
-@media (max-width: 500px) {
-  form {
-    background: #23293B;
-    color: white;
-  }
+  background: #23293B;
+  color: white;
 }
 @media (max-width: 500px) {
   form .submit {
