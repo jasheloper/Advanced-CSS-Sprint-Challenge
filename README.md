@@ -11,7 +11,7 @@ Student will demonstrate proficiency by updating a website that is missing conte
 
 
 
-<a href="http://jasheletillman.me/Advanced-CSS-Sprint-Challenge/"><img src="screenshots/desktopview.png" alt="desktop view"></a> <a href="http://jasheletillman.me/Advanced-CSS-Sprint-Challenge/"><img src="screenshots/mobileview.png" alt="mobile view"></a>
+<a href="http://jasheletillman.me/Advanced-CSS-Sprint-Challenge/"><img src="screenshots/desktopview.png" alt="desktop view"></a> <a href="http://jasheletillman.me/Advanced-CSS-Sprint-Challenge/"><img src="screenshots/mobileview.png" alt="mobile view"></a> <a href="http://jasheletillman.me/Advanced-CSS-Sprint-Challenge/"><img src="screenshots/magazine.png" alt="mobile view"></a>
 
 
 
