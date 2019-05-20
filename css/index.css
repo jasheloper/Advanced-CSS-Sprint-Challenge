@@ -418,6 +418,7 @@ footer {
 }
 @media (max-width: 500px) {
   .theform {
+    text-align: center;
     width: 100%;
     padding-top: 3rem;
     background: #23293B;
