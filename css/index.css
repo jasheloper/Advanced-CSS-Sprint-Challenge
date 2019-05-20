@@ -381,3 +381,16 @@ footer {
   margin: 2rem;
   width: 50%;
 }
+.theform {
+  padding: 2rem;
+  border-radius: 5rem;
+  line-height: 2rem;
+  font-weight: bold;
+  background-color: #edeff0;
+}
+form {
+  padding: 1rem;
+  font-size: 1.38rem;
+  text-align: center;
+  font-weight: bold;
+}
