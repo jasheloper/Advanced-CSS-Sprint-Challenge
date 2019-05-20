@@ -6,6 +6,8 @@ Student will demonstrate proficiency by updating a website that is missing conte
 *Completed all Minimal Viable Project Tasks*
 
 <strong>Stretch Tasks:</strong><br />
+- Build a page of your choosing from the navigation items. Come up with content and images that fit the theme.
+- Create a form that would allow someone to sign up for a Spacewalkers Magazine subscription.
 
 
 
