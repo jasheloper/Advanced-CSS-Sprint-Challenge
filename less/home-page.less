@@ -75,6 +75,10 @@
     p {
       margin-top: 13px;
     }
+
+    @media @mobile {
+      padding: 1rem;
+    }
   }
 
   .walk {
@@ -112,6 +116,11 @@
 
         &:hover {
           background-color: lighten(@ebony-clay, 30%)
+        }
+
+        @media @mobile {
+          width: 100%;
+          padding: 2rem;
         }
       }
     }
