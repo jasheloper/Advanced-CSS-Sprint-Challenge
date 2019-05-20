@@ -3,6 +3,11 @@
   background-color: #f7f7f7;
   text-align: center;
 }
+@media (max-width: 500px) {
+  .topheader {
+    width: 100%;
+  }
+}
 .navlink {
   padding: 1rem;
   text-decoration: none;
@@ -171,10 +176,20 @@ p {
   width: 100%;
   margin: 0 auto;
 }
+@media (max-width: 500px) {
+  .container {
+    max-width: 480px;
+  }
+}
 .top {
   padding-top: 0.7rem;
   background-color: #f7f7f7;
   text-align: center;
+}
+@media (max-width: 500px) {
+  .top {
+    width: 100%;
+  }
 }
 .top h1 {
   padding: 1rem;
@@ -188,6 +203,11 @@ p {
   text-decoration: none;
   color: #23293B;
   font-size: 1.7rem;
+}
+@media (max-width: 500px) {
+  .top nav a {
+    padding: 1.6rem;
+  }
 }
 footer {
   color: #22283B;
@@ -205,16 +225,42 @@ footer {
 .home .intro p {
   padding: 0 15px;
 }
+@media (max-width: 500px) {
+  .home .headerimg {
+    width: 100%;
+  }
+}
 .home .space-images {
   display: flex;
   flex-wrap: wrap;
   width: 100%;
+}
+@media (max-width: 500px) {
+  .home .space-images {
+    flex-direction: column;
+  }
 }
 .home .space-images img {
   width: 28%;
   margin: 20px 2.5%;
   border-radius: 20px;
   height: 100%;
+}
+@media (max-width: 500px) {
+  .home .space-images img {
+    width: 92%;
+    height: auto;
+  }
+}
+@media (max-width: 500px) {
+  .home .space-images .launch {
+    display: none;
+  }
+}
+@media (max-width: 500px) {
+  .home .space-images .sky {
+    display: none;
+  }
 }
 .home .visit-planets {
   padding: 15px;
@@ -232,8 +278,20 @@ footer {
   display: flex;
   justify-content: center;
 }
+@media (max-width: 500px) {
+  .home .walk {
+    flex-direction: column-reverse;
+    width: 100%;
+    padding: 3rem;
+  }
+}
 .home .walk .walk-text {
   width: 50%;
+}
+@media (max-width: 500px) {
+  .home .walk .walk-text {
+    width: 100%;
+  }
 }
 .home .walk .walk-text h3 {
   margin-bottom: 10px;
@@ -257,8 +315,20 @@ footer {
   width: 46%;
   margin-left: 4%;
 }
+@media (max-width: 500px) {
+  .home .walk .walk-img {
+    margin: auto;
+    width: 100%;
+  }
+}
 .home .walk .walk-img img {
   width: 100%;
   height: auto;
   border-radius: 10px;
+}
+@media (max-width: 500px) {
+  .home .walk .walk-img img {
+    padding-bottom: 1rem;
+    border-radius: 2rem;
+  }
 }
