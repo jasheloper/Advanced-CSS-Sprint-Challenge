@@ -404,6 +404,11 @@ footer {
     padding-bottom: 4rem;
   }
 }
+@media (max-width: 500px) {
+  .about p {
+    text-align: center;
+  }
+}
 .theform {
   padding: 2rem;
   border-radius: 5rem;
