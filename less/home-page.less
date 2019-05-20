@@ -158,6 +158,7 @@
   text-align: center;
   font-size: 4rem;
 
+
 }
 
 .heading2 {
@@ -165,6 +166,10 @@
   font-size: 2rem;
   padding: .2rem;
   text-align: center;
+
+  @media @mobile {
+    color: lighten(green, 10%)
+  }
 }
 
 .section {
@@ -190,12 +195,29 @@
   p {
     line-height: 4rem;
   }
+  @media @mobile {
+    width: 100%;
+    flex-direction: column;
+  }
 }
 
 .signupinfobox {
   margin: 2rem;
   width: 50%;
 
+  @media @mobile {
+    margin: auto; 
+    width: 100%;
+
+  }
+
+}
+
+.about {
+  @media @mobile {
+    padding-bottom: 4rem;
+
+  }
 }
 
 .theform {
@@ -204,6 +226,14 @@
   line-height: 2rem;
   font-weight: bold;
   background-color: rgb(237, 239, 240);
+
+  @media @mobile {
+    width: 100%;
+    padding-top: 3rem;
+    background: @ebony-clay;
+    color: white;
+
+  }
 }
 
 form {
@@ -211,5 +241,18 @@ form {
   font-size: 1.38rem;
   text-align: center;
   font-weight: bold;
+
+  @media @mobile {
+    background: @ebony-clay;
+    color: white;
+
+  }
+
+  .submit {
+    @media @mobile {
+      color: white;
+      font-size: 2rem;
+    }
+  }
 
 }

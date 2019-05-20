@@ -206,7 +206,8 @@ p {
 }
 @media (max-width: 500px) {
   .top nav a {
-    padding: 1.6rem;
+    font-size: 1.4rem;
+    padding: 1rem;
   }
 }
 footer {
@@ -356,6 +357,11 @@ footer {
   padding: 0.2rem;
   text-align: center;
 }
+@media (max-width: 500px) {
+  .heading2 {
+    color: #00b300;
+  }
+}
 .section {
   padding: 1rem;
 }
@@ -377,9 +383,26 @@ footer {
 .signupinfo p {
   line-height: 4rem;
 }
+@media (max-width: 500px) {
+  .signupinfo {
+    width: 100%;
+    flex-direction: column;
+  }
+}
 .signupinfobox {
   margin: 2rem;
   width: 50%;
+}
+@media (max-width: 500px) {
+  .signupinfobox {
+    margin: auto;
+    width: 100%;
+  }
+}
+@media (max-width: 500px) {
+  .about {
+    padding-bottom: 4rem;
+  }
 }
 .theform {
   padding: 2rem;
@@ -388,9 +411,29 @@ footer {
   font-weight: bold;
   background-color: #edeff0;
 }
+@media (max-width: 500px) {
+  .theform {
+    width: 100%;
+    padding-top: 3rem;
+    background: #23293B;
+    color: white;
+  }
+}
 form {
   padding: 1rem;
   font-size: 1.38rem;
   text-align: center;
   font-weight: bold;
+}
+@media (max-width: 500px) {
+  form {
+    background: #23293B;
+    color: white;
+  }
+}
+@media (max-width: 500px) {
+  form .submit {
+    color: white;
+    font-size: 2rem;
+  }
 }
