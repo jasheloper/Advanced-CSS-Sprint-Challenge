@@ -250,6 +250,9 @@ footer {
   padding: 1rem;
   text-align: center;
 }
+.home .walk .walk-text .btn:hover {
+  background-color: #5c6c9b;
+}
 .home .walk .walk-img {
   width: 46%;
   margin-left: 4%;
